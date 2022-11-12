@@ -1,3 +1,3 @@
 # 2022 - Simulacro de Parcial de Objetos
 
-[Enunciado](https://github.com/pdep-sm/2022-simulacro-objetos.git)
+[Enunciado](https://docs.google.com/document/d/1im2UUvzgoLZrp6LCmzfia2tUwaOqEt8dGfIOABdscvk/edit#heading=h.8233rvghktz2)
